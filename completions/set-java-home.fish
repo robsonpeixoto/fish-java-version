@@ -1,1 +1,1 @@
-complete -xc mkvirtualenv -a '(__java_versions)'
+complete -xc set-java-home -a '(__java_versions)'
